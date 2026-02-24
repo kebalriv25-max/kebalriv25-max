@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Baldeon <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Leveraging Civil Engineering logic to solve Data Analysis challenges
-<h3 align="center">Jr. Data Analyst from Peru </h3>
+<h3 align="center">"Civil Engineer | Aspiring Data Specialist" </h3>
 
 - 🔭 I’m currently completing my studies at **Tripleten data analysis bootcamp**
 
