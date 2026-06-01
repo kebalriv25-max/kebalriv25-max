@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Baldeon <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Kevin Baldeon <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /></h1>
 <h3 align="center">Civil Engineer transitioning into Data Engineering and Analytics, bringing a strong foundation in structural logic and quantitative analysis to complex datasets.
 <h3 align="center">"Civil Engineer | Aspiring Data Specialist" </h3>
 
@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on **Data Analyst | BI Analyst | Associate Data Engineer**
 
-- ⚡ What I like to do: **Dialing in guitar pedal effects, optimizing band equalizations, and researching new data technologies.**
 - 🛠️ Current Learning Goals:
   - 📊 **PL-300**: Microsoft Power BI Data Analyst
   - ☁️ **DP-203**: Microsoft Azure Data Engineer
 
+- ⚡ What I like to do: **You’ll find me tweaking electric guitar effects, testing ergonomic mice, or exploring new data tech.**
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
