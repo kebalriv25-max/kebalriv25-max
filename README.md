@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kevin Baldeon <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Leveraging Civil Engineering logic to solve Data Analysis challenges
+<h3 align="center">Civil Engineer transitioning into Data Engineering and Analytics, bringing a strong foundation in structural logic and quantitative analysis to complex datasets.
 <h3 align="center">"Civil Engineer | Aspiring Data Specialist" </h3>
 
-- 🔭 I’m currently completing my studies at **Tripleten data analysis bootcamp**
+- 🎓 Certified Data Analyst | Graduate of the **TripleTen Data Analysis Bootcamp**
 
-- 🌱 I’m currently preparing to become certified in **Google Data Analytics**
+- 👯 I’m looking to collaborate on **Data Analyst | BI Analyst | Associate Data Engineer**
 
-- 👯 I’m looking to collaborate on **Data Analyst | BI Analyst | Marketing Data Analyst**
-
-- 📫 How to reach me: **kebalriv25@gmail.com**
-
-- ⚡ What I like to do: **I really enjoy listening to music, playing guitar, and researching new data technologies of course**
+- ⚡ What I like to do: **Dialing in guitar pedal effects, optimizing band equalizations, and researching new data technologies.**
+- 🛠️ Current Learning Goals:
+  - 📊 **PL-300**: Microsoft Power BI Data Analyst
+  - ☁️ **DP-203**: Microsoft Azure Data Engineer
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
