@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,60:58a6ff,100:00d4ff&height=220&section=header&text=Kevin%20Baldeon%20Rivera&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Lima%2C%20Perú&descAlignY=56&descSize=16&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,60:58a6ff,100:00d4ff&height=220&section=header&text=Kevin%20Baldeon%20Rivera&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20Associate%20Data%20Engineer&descAlignY=56&descSize=16&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
 <h3 align="center">Civil Engineer transitioning into Data Engineering and Analytics, bringing a strong foundation in structural logic and quantitative analysis to complex datasets.
 <h3 align="center">"Civil Engineer | Aspiring Data Specialist" </h3>
 
