@@ -56,13 +56,13 @@ Aquí hay algunos de los proyectos de Data Analyst en los cuales he puesto a pru
 - La experimentación con la nueva implementación de la UI del checkout no presenta evidencia estadísticamente significativa para afirmar su impacto en la conversión de compras.
     
 **Movilidad Urbana y Productividad económica**
-- Ausencia de correlación lineal: Los datos demuestran que una economía fuerte no implica necesariamente colapso vial. Buenos Aires, con uno de los PIB per cápita más altos de la muestra ($18,117.00), mantiene una demora promedio por congestión de 571.09 min, nivel significativamente menor al de otras capitales.
-- Liderazgo en congestión: Ciudad de México se posiciona como el outlier más crítico de la región, liderando el ranking con un jams_delay promedio de 2,833.06 min, superando incluso a potencias globales como Tokio o Nueva York en tiempo perdido.
-- Eficiencia relativa: Ciudades como Brasilia muestran una gestión de movilidad superior, con apenas 101.58 min de demora, a pesar de tener un PIB per cápita competitivo de $16,251.00.
+- Ausencia de correlación lineal: Los datos demuestran que una economía fuerte no implica necesariamente colapso vial. Buenos Aires, con uno de los `PIB per cápita` más altos de la muestra ($18,117.00), mantiene una `demora promedio por congestión` de 571.09 min, nivel significativamente menor al de otras capitales.
+- Liderazgo en congestión: Ciudad de México se posiciona como el outlier más crítico de la región, liderando el ranking con un `jams_delay` promedio de 2,833.06 min, superando incluso a potencias globales como Tokio o Nueva York en tiempo perdido.
+- Eficiencia relativa: Ciudades como Brasilia muestran una gestión de movilidad superior, con apenas 101.58 min de demora, a pesar de tener un `PIB per cápita` competitivo de $16,251.00.
 
 **Análisis Comercial Inmoviliario**
 - El segmento de clientes de "Primera vez" concentra la mayor parte del ingreso histórico.
 - Los clientes adquiridos en las cohortes del primer trimestre de 2023 muestran mayor recurrencia.
-- Las ventas muestran una tendencia positiva con un crecimiento Year over Year (YoY) acumulado del 111.14%.
-- La ciudad con mayor volumen de ventas es Bogotá (con 3.2 mil millones, superando a Ciudad de México).
-- El canal de venta más eficiente en términos de ingresos es el Directo (aportando más del 72% histórico).
+- Las ventas muestran una tendencia positiva con un` crecimiento Year over Year` (YoY) acumulado del 111.14%.
+- La ciudad con mayor `volumen de ventas` es Bogotá (con 3.2 mil millones, superando a Ciudad de México).
+- El `canal de venta` más eficiente en términos de ingresos es el Directo (aportando más del 72% histórico).
